@@ -1,1 +1,1 @@
-# Graph-Centrality-Analysis
+# Graph Centrality Analysis & Community Detection
